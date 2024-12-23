@@ -1,6 +1,24 @@
-# Coding challenge - <Platform> - <Name>
-Source of the challenge: <Challenge>
+## Coding challenge - (Platform) - (Name)
 
-## Solution
+Source of the challenge: (Challenge)
 
-## Thoughts
+### Summary of challenge - Authored by ChatGPT
+
+### Basic testcases
+
+There are many more testcases in the [tests](/tests/test_solution.cpp) file.
+
+```c++
+```
+
+### Solution
+
+solution.h
+
+```c++
+```
+
+solution.cpp
+
+```c++
+```
