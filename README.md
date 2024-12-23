@@ -1,1 +1,6 @@
-Template for practicing competetive programming in C++ on NixOS. The nix.shell works for editors such as NeoVim.
+# Coding challenge - <Platform> - <Name>
+Source of the challenge: <Challenge>
+
+## Solution
+
+## Thoughts
