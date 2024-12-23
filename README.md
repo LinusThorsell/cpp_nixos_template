@@ -6,7 +6,7 @@ Source of the challenge: (Challenge)
 
 ### Basic testcases
 
-There are many more testcases in the [tests](/tests/test_solution.cpp) file.
+There are more testcases in the [tests](/tests/test_solution.cpp) file.
 
 ```c++
 ```
